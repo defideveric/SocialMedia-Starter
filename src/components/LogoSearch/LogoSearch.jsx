@@ -6,7 +6,7 @@ import './LogoSearch.css';
 const LogoSearch = () => {
   return (
     <div className='logoSearch'>
-      <img alt='' src={Logo}/>
+      <img alt='' src={''}/>
       <div className='search'>
         <input type='text' placeholder='#Explore'/>
         <div className='s-icon'>
